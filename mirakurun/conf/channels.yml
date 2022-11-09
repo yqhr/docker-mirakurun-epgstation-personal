@@ -1,0 +1,63 @@
+  - name: 'ＮＨＫＥテレ１仙台'
+    type: 'GR'
+    channel: '14'
+  - name: 'ＮＨＫ総合１・仙台'
+    type: 'GR'
+    channel: '17'
+  - name: 'ＴＢＣテレビ１'
+    type: 'GR'
+    channel: '19'
+  - name: '仙台放送'
+    type: 'GR'
+    channel: '21'
+  - name: 'ミヤギテレビ１'
+    type: 'GR'
+    channel: '24'
+  - name: '東日本放送ＣＨ１'
+    type: 'GR'
+    channel: '28'
+  - name: 'ＢＳ朝日１'
+    type: 'BS'
+    channel: 'BS1_0'
+    services: 151
+  - name: 'ＢＳ－ＴＢＳ'
+    type: 'BS'
+    channel: 'BS1_1'
+    services: 161
+  - name: 'ＢＳテレ東'
+    type: 'BS'
+    channel: 'BS1_2'
+    services: 171
+  - name: 'ＮＨＫＢＳプレミアム'
+    type: 'BS'
+    channel: 'BS3_1'
+    services: 103
+  - name: 'ＢＳ１１イレブン'
+    type: 'BS'
+    channel: 'BS9_0'
+    services: 211
+  - name: 'ＢＳ１２トゥエルビ'
+    type: 'BS'
+    channel: 'BS9_2'
+    services: 222
+  - name: '放送大学ｅｘ'
+    type: 'BS'
+    channel: 'BS11_2'
+    services: 231
+  - name: '放送大学ｏｎ'
+    type: 'BS'
+    channel: 'BS11_2'
+    services: 232
+  - name: 'ＢＳ日テレ'
+    type: 'BS'
+    channel: 'BS13_0'
+    services: 141
+  - name: 'ＢＳフジ・１８１'
+    type: 'BS'
+    channel: 'BS13_1'
+    services: 181
+  - name: 'ＮＨＫＢＳ１'
+    type: 'BS'
+    channel: 'BS15_0'
+    services: 101
+
