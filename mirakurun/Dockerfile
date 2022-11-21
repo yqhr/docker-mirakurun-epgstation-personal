@@ -28,8 +28,8 @@ WORKDIR /tmp
 RUN apt-get install -y dvb-tools
 RUN git clone https://github.com/Chinachu/dvbconf-for-isdb.git
 WORKDIR /tmp/dvbconf-for-isdb/conf
-RUN mkdir -p /etc/dvb5/
-RUN cp dvbv5_channels_isdbs.conf dvbv5_channels_isdbt.conf /etc/dvb5/
+RUN mkdir -p /etc/dvbv5/
+RUN cp dvbv5_channels_isdbs.conf dvbv5_channels_isdbt.conf /etc/dvbv5/
 
 # mirakurun
 WORKDIR /app
